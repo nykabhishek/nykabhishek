@@ -8,6 +8,8 @@
 </a>
 
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nykabhishek)](https://github.com/nykabhishek)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true)
+
 
 
 <!--
