@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true)](https://nykabhishek.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=8)](https://nykabhishek.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=5)](https://nykabhishek.github.io/)
 <!-- <a href="https://github.com/nykabhishek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&layout=compact&hide=javascript,html" />
 </a> -->
