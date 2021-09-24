@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://nykabhishek.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&hide=issues&show_icons=true" alt="nykabhishek's github stats"/>
+</a>
+<a href="https://nykabhishek.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&layout=compact&hide=javascript,html" />
+</a>
+
 <!--
 **nykabhishek/nykabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
