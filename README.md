@@ -9,6 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html" />
 </a>
 
+[![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nykabhishek/nykabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
