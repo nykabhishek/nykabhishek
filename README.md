@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs,prs)](https://nykabhishek.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html)](https://nykabhishek.github.io/)
+<!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://nykabhishek.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&count_private=true&show_icons=true&hide=contribs,prs" />
+</a>
+<a href="https://nykabhishek.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html" />
+</a>
+
+<!-- [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs,prs)](https://nykabhishek.github.io/) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html)](https://nykabhishek.github.io/) -->
 <!-- <a href="https://github.com/nykabhishek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&layout=compact&hide=javascript,html" />
 </a> -->
