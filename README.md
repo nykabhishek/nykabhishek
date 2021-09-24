@@ -3,7 +3,7 @@
 <a href="https://nykabhishek.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&hide=issues&show_icons=true" alt="nykabhishek's github stats"/>
 </a>
-<a href="https://nykabhishek.github.io/">
+<a href="https://github.com/nykabhishek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&layout=compact&hide=javascript,html" />
 </a>
 
