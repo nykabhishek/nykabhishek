@@ -2,7 +2,6 @@
 
 <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek)
 
 <a href="https://nykabhishek.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs" />
@@ -13,6 +12,9 @@
 </a>
 
 [![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek)]("https://github.com/nykabhishek/")
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek)
+
 
 <!--
 **nykabhishek/nykabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
