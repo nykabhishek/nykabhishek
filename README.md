@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs" />
 </a>
 
-<a href="https://github.com/nykabhishek/robotic-perception">
+<a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html" />
 </a>
 
