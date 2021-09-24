@@ -2,8 +2,12 @@
 
 <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://nykabhishek.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&count_private=true&show_icons=true&hide=contribs,prs" alt="nykabhishek's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs,prs" alt="nykabhishek's github stats"/>
 </a>
+<a href="https://nykabhishek.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaotaoGuo&hide=issues&show_icons=true" alt="Xiaotao's github stats"/>
+</a>
+
 <a href="https://nykabhishek.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html" />
 </a>
