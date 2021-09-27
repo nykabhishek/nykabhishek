@@ -16,6 +16,10 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
 
 <!--START_SECTION:waka-->
+```text
+Python   1 hr 26 mins    ███████████████████░░░░░░   76.24 % 
+INI      26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
