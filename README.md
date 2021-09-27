@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/nykabhishek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rizzdev"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek"/>
 </a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
