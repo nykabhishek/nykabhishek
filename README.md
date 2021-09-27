@@ -11,11 +11,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html" />
 </a>
 
-[![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek)]("https://github.com/nykabhishek/")
+[![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek)](https://github.com/nykabhishek/)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
 📊 **Weekly development breakdown**
