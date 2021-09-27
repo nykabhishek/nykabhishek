@@ -11,9 +11,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&langs_count=6&layout=compact&hide=javascript,html" />
 </a>
 
-<a href="https://github.com/nykabhishek/">
+<!-- <a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek"/>
-</a>
+</a> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
 
