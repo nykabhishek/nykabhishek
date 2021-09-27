@@ -17,18 +17,19 @@
 <a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek"/>
 </a>
+
 -------
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
 
--------
-📊 **Weekly development breakdown**
+<!-- ------- -->
+<!-- 📊 **Weekly development breakdown** -->
 <!--START_SECTION:waka-->
 ```text
 Python   1 hr 26 mins    ███████████████████░░░░░░   76.24 % 
 INI      26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 ```
 <!--END_SECTION:waka-->
--------
+<!-- ------- -->
 
 <!--
 **nykabhishek/nykabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
