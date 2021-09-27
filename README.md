@@ -13,10 +13,6 @@
 
 [![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek)](https://github.com/nykabhishek/)
 
-
-[![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888)](https://github.com/nykabhishek/)
-<!-- https://github-readme-stats.vercel.app/api/wakatime?username= -->
-
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
 
 -------
