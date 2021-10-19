@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/nykabhishek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&layout=compact&langs_count=6&exclude_repo=nykabhishek.github.io, nykabhishek-academic-kickstart" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&layout=compact&langs_count=6&exclude_repo=nykabhishek.github.io" />
 </a>
 
 -------
