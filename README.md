@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/nykabhishek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs" />
 </a>
 
 <!-- ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true) -->
