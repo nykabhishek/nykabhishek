@@ -22,6 +22,8 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=ai-ml-cheat-sheet)](https://github.com/nykabhishek/ai-ml-cheat-sheet)
+
 
 <!--
 **nykabhishek/nykabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
