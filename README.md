@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/nykabhishek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs&&layout=compact" />
 </a>
 <a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&hide=javascript,html&layout=compact&langs_count=6&exclude_repo=nykabhishek.github.io" />
