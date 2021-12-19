@@ -21,7 +21,7 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=ai-ml-cheat-sheet)](https://github.com/nykabhishek/ai-ml-cheat-sheet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=awesome-ai-ml-cheatsheet)](https://github.com/nykabhishek/awesome-ai-ml-cheatsheet)
 
 
 <!--
