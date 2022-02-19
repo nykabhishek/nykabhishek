@@ -13,7 +13,7 @@ Welcome to my github repo 👨‍🚀
 </a>
 
 -------
-📊 **Weekly development breakdown**
+📊 **Weekly development breakdown** [![wakatime](https://wakatime.com/badge/user/584b4082-b74c-420b-9379-7db920c9017e.svg)](https://wakatime.com/@584b4082-b74c-420b-9379-7db920c9017e)
 
 <!-- <a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek&layout=compact"/>
