@@ -15,9 +15,10 @@ Welcome to my github repo 👨‍🚀
 -------
 📊 **Weekly development breakdown**
 
-<a href="https://github.com/nykabhishek/">
+<!-- <a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek&layout=compact"/>
-</a>
+</a> -->
+[![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek)](https://github.com/nykabhishek)
 
 -------
 
