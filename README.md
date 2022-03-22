@@ -22,11 +22,9 @@ Welcome to my github repo 👨‍🚀  [![github](https://img.shields.io/github/
 
 -------
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=nykabhishek)](https://github.com/nykabhishek/nykabhishek) -->
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=awesome-ai-ml-cheatsheet)](https://github.com/nykabhishek/awesome-ai-ml-cheatsheet)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=leetcode-solutions)](https://github.com/nykabhishek/leetcode-solutions)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=leetcode-solutions)](https://github.com/nykabhishek/leetcode-solutions) -->
 
 
 
