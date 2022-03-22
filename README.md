@@ -8,9 +8,9 @@ Welcome to my github repo 👨‍🚀  [![github](https://img.shields.io/github/
 <a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs" />
 </a>
-<!-- <a href="https://github.com/nykabhishek/">
+<a href="https://github.com/nykabhishek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykabhishek&hide=javascript,html&layout=compact&langs_count=6&exclude_repo=nykabhishek.github.io" />
-</a> -->
+</a>
 
 -------
 📊 **Weekly development breakdown**  [![wakatime](https://wakatime.com/badge/user/584b4082-b74c-420b-9379-7db920c9017e.svg?style=plastic)](https://wakatime.com/@584b4082-b74c-420b-9379-7db920c9017e)
