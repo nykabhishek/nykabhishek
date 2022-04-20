@@ -24,6 +24,8 @@ Welcome to my github repo 👨‍🚀  [![github](https://img.shields.io/github/
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=awesome-ai-ml-cheatsheet)](https://github.com/nykabhishek/awesome-ai-ml-cheatsheet)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=coursera-self_driving_cars_specialization)](https://github.com/nykabhishek/coursera-self_driving_cars_specialization)
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=leetcode-solutions)](https://github.com/nykabhishek/leetcode-solutions) -->
 
 
