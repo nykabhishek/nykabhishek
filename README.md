@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-Welcome to my github repo 👨‍🚀  [![github](https://img.shields.io/github/followers/nykabhishek?logo=github&style=plastic)](https://github.com/nykabhishek?tab=followers)
+<!-- Welcome to my github repo 👨‍🚀  [![github](https://img.shields.io/github/followers/nykabhishek?logo=github&style=plastic)](https://github.com/nykabhishek?tab=followers) -->
 
 <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
 
