@@ -20,6 +20,14 @@ Welcome to my github repo 👨‍🚀  [![github](https://img.shields.io/github/
 </a> -->
 [![nykabhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek&layout=compact)](https://github.com/nykabhishek)
 
+
+<a href="https://github.com/nykabhishek/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs" />
+</a>
+<a href="https://github.com/nykabhishek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek&layout=compact" />
+</a>
+
 -------
 
 <a href="https://github.com/nykabhishek/awesome-ai-ml-cheatsheet">
