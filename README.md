@@ -15,12 +15,12 @@
 
 -------
 
-<a href="https://github.com/nykabhishek/awesome-ai-ml-cheatsheet">
+<!-- <a href="https://github.com/nykabhishek/awesome-ai-ml-cheatsheet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=awesome-ai-ml-cheatsheet" />
 </a>
 <a href="https://github.com/nykabhishek/coursera-self_driving_cars_specialization">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=coursera-self_driving_cars_specialization" />
-</a>
+</a> -->
 
 <a href="https://github.com/nykabhishek/SLAM-UrbanNav-Dataset">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nykabhishek&repo=SLAM-UrbanNav-Dataset" />
