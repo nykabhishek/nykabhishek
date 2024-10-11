@@ -2,7 +2,7 @@
 
 <!-- Welcome to my github repo 👨‍🚀  [![github](https://img.shields.io/github/followers/nykabhishek?logo=github&style=plastic)](https://github.com/nykabhishek?tab=followers) -->
 
-[![wakatime](https://wakatime.com/badge/user/584b4082-b74c-420b-9379-7db920c9017e.svg?style=plastic)](https://wakatime.com/@584b4082-b74c-420b-9379-7db920c9017e)
+
 
 <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
 
@@ -10,7 +10,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nykabhishek&count_private=true&show_icons=true&hide=contribs" />
 </a>
 
+<br>
+
 📊 **Weekly development breakdown**
+
+[![wakatime](https://wakatime.com/badge/user/584b4082-b74c-420b-9379-7db920c9017e.svg?style=plastic)](https://wakatime.com/@584b4082-b74c-420b-9379-7db920c9017e)
 
 <a href="https://github.com/nykabhishek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nykabhishek&layout=compact" />
